@@ -16,7 +16,7 @@
 
 ## 📖 Sobre Mim
 
-Sou um entusiasta de tecnologia focado em **Desenvolvimento Back-end** e **Arquitetura de Software**. Atualmente, curso **Ciência da Computação** na UNIT e possuo formação técnica em **Desenvolvimento Web**.
+Sou um entusiasta de tecnologia focado em **Desenvolvimento Back-end** e **Arquitetura de Software**. Atualmente, curso **Ciência da Computação** na UNIT e possuo formação técnica em **Desenvolvimento de Sistemas** pelo SENAI.
 
 Meu foco principal é a construção de sistemas que não sejam apenas funcionais, mas também **seguros, escaláveis e eficientes**. Dedico-me constantemente ao estudo de:
 
