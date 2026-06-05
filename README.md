@@ -79,6 +79,6 @@ Sinta-se à vontade para entrar em contato comigo para parcerias, dúvidas ou ap
 
 - 📧 **Email**: [joaodev.azevedo@outlook.com](mailto:joaodev.azevedo@outlook.com)
 - 💼 **LinkedIn**: [João Pedro Azevedo Freire](https://www.linkedin.com/in/jo%C3%A3o-pedro-azevedo-freire-529797324/)
-- 🌐 **Portfólio**: [Visite meu site](https://portfolio-cyan-sigma-17.vercel.app/)
+- 🌐 **Portfólio**: [Visite meu portfólio](https://joaopfolio-ninukuk9.manus.space)
 
 ---
